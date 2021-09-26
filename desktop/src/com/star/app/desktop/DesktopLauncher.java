@@ -11,4 +11,8 @@ public class DesktopLauncher {
 		config.height = 720;
 		new LwjglApplication(new StarGame(), config);
 	}
+
+//	1. Разобраться с кодом
+//  2. Заверните ваши астероиды в контроллер
+//  3.* Сделайте унижтожение астероидов с одного попадания
 }
